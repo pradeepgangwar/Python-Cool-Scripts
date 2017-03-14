@@ -6,4 +6,4 @@ def download_web_image(url):
 	full_name = str(name) + '.jpg'
 	urllib.request.urlretrieve(url, full_name)
 
-download_web_image('''Add your url here''')
+download_web_image('Add your url here containing jpg image in these quotes')
