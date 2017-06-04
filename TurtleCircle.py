@@ -1,4 +1,4 @@
-# Not working as of now
+# Make sure you install tkinter by : **sudo apt-get install python-tk**
 
 import turtle
 
